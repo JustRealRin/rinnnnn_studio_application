@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=RinStu
+Comment=Open https://justrealrin.github.io/
+Exec=webbrowser-app https://justrealrin.github.io/
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

@@ -1,0 +1,6 @@
+{
+    "policy_groups": [
+        "webview"
+    ],
+    "policy_version": 1.0
+}
