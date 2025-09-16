@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Base.Theme.RinStu" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- customize colors/attributes here if needed -->
+    </style>
+
+    <style name="Theme.RinStu" parent="Base.Theme.RinStu" />
+
+</resources>
