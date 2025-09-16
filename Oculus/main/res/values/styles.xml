@@ -1,0 +1,4 @@
+<resources>
+    <style name="RinStuTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+</resources>
